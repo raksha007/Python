@@ -1,10 +1,8 @@
 ```bash
 international_shipping = True
-```
-```bash
+
 total = 150
-```
-```bash
+
 shipping_cost = 0
 ```
 ```bash
@@ -23,7 +21,7 @@ elif total <= 100:
   ```bash
 else:
   shipping_cost += 5
-```
-```bash
+
+
 print(f"Shipping cost: {shipping_cost}")
 ```
