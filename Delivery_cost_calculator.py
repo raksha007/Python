@@ -1,4 +1,4 @@
-```bash
+
 international_shipping = True
 
 total = 150
@@ -20,4 +20,4 @@ else:
 
 
 print(f"Shipping cost: {shipping_cost}")
-```
+
