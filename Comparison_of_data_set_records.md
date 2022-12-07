@@ -1,3 +1,4 @@
+```bash
 id_1 = "#4"
 average_grade_1 = "A"
 test_score_1= 90
@@ -17,3 +18,4 @@ print(same_average)
 higher_score = test_score_1 > test_score_2
 print("id_1 has a higher score:")
 print(higher_score)
+```
