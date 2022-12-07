@@ -18,3 +18,4 @@ if credits > 0:
   final_price = ride_price - credits
 
 print("Final price:")
+print(final_price)
