@@ -1,3 +1,4 @@
+```bash
 ride_type = "Black"
 credits = 4
 
@@ -19,3 +20,4 @@ if credits > 0:
 
 print("Final price:")
 print(final_price)
+```
